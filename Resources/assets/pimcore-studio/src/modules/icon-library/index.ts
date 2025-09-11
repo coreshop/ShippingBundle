@@ -15,21 +15,21 @@ import { serviceIds } from '@pimcore/studio-ui-bundle/app'
 import { type IconLibrary } from '@pimcore/studio-ui-bundle/modules/icon-library'
 
 // @ts-ignore
-import carriersIcon from '../assets/carriers.svg?react'
+import carriersIcon from '../../assets/carriers.svg?react'
 // @ts-ignore
-import conditionsIcon from '../assets/conditions.svg?react'
+import conditionsIcon from '../../assets/conditions.svg?react'
 // @ts-ignore
-import currenciesIcon from '../assets/currencies.svg?react'
+import currenciesIcon from '../../assets/currencies.svg?react'
 // @ts-ignore
-import dimensionIcon from '../assets/dimension.svg?react'
+import dimensionIcon from '../../assets/dimension.svg?react'
 // @ts-ignore
-import postcodeIcon from '../assets/postcode.svg?react'
+import postcodeIcon from '../../assets/postcode.svg?react'
 // @ts-ignore
-import shippingIcon from '../assets/shipping.svg?react'
+import shippingIcon from '../../assets/shipping.svg?react'
 // @ts-ignore
-import shippingRulesIcon from '../assets/shippingrules.svg?react'
+import shippingRulesIcon from '../../assets/shippingrules.svg?react'
 // @ts-ignore
-import weightIcon from '../assets/weight.svg?react'
+import weightIcon from '../../assets/weight.svg?react'
 
 export const ShippingBundleIconModule: AbstractModule = {
   onInit(): void {
