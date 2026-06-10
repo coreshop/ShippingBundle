@@ -21,7 +21,7 @@
     },
     "globalName": "coreshopshipping",
     "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshopshipping/studio/94129ae3-3ada-4764-b579-efce85faf185/"
+    "publicPath": "/bundles/coreshopshipping/studio/258b0de9-b170-409b-a274-ea9895c1e741/"
   },
   "shared": [
     {
@@ -35,7 +35,7 @@
           "async": [],
           "sync": [
             "static/js/async/232.26fff9a2.js",
-            "static/js/async/467.5eb20b60.js"
+            "static/js/async/467.5bc7d056.js"
           ]
         },
         "css": {
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/103.a84faa10.js",
+            "static/js/async/103.cce43483.js",
             "static/js/async/44.e4dfd530.js"
           ]
         },
@@ -76,8 +76,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/460.01cb56c6.js",
-            "static/js/async/79.d84ee0ee.js"
+            "static/js/async/460.42ccbb97.js",
+            "static/js/async/79.57142f5c.js"
           ]
         },
         "css": {
@@ -97,7 +97,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/920.66cc28b1.js"
+            "static/js/async/920.7a1824f4.js"
           ]
         },
         "css": {
@@ -117,7 +117,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/63.ac4c096f.js"
+            "static/js/async/63.c16ed561.js"
           ]
         },
         "css": {
@@ -137,8 +137,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.67a4fbac.js",
-            "static/js/async/76.400b3528.js"
+            "static/js/async/695.56a36fb0.js",
+            "static/js/async/76.f908ceca.js"
           ]
         },
         "css": {
@@ -208,17 +208,17 @@
       "assets": {
         "js": {
           "sync": [
-            "static/js/259.0334daa4.js",
+            "static/js/259.c4b0eabc.js",
             "static/js/387.0fa35499.js",
-            "static/js/939.86f91f8c.js",
-            "static/js/794.677d3077.js",
-            "static/js/async/715.1b55dc66.js",
-            "static/js/async/778.b6a55413.js",
-            "static/js/async/70.0cab5b8c.js",
-            "static/js/async/691.880160e1.js",
-            "static/js/881.776283e1.js",
-            "static/js/398.10387ed6.js",
-            "static/js/async/__federation_expose_default_export.81a75d5d.js"
+            "static/js/939.61dd7c83.js",
+            "static/js/794.f4102f2b.js",
+            "static/js/async/715.1a83b503.js",
+            "static/js/async/778.88c9fadc.js",
+            "static/js/async/70.c7595fa0.js",
+            "static/js/async/691.5623892a.js",
+            "static/js/32.d57cac0c.js",
+            "static/js/398.d333c3da.js",
+            "static/js/async/__federation_expose_default_export.0bd586a9.js"
           ],
           "async": []
         },
